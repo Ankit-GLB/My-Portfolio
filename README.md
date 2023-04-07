@@ -1,3 +1,3 @@
 # My-Portfolio
 
-Link for the website:- https://github.com/Ankit-GLB/My-Portfolio
+Link for the website:- https://ankit-glb.github.io/My-Portfolio/
